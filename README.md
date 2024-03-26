@@ -1,2 +1,2 @@
-# OOP-exercises
+# exercises
 Answers to assignments in class
